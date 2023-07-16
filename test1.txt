@@ -5,4 +5,7 @@ this is easy to learn and also implement --> change-2
 
 
 some student not practice, 
-so they are getting hard to doin django. --> change-3
+so they are getting hard to do django. --> change-3
+
+some student are very good bcz they are not practice, 
+so they are getting hard to do django. --> change-4
